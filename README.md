@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @volpijak12
+- 👀 I’m interested in tech
+- 🌱 I’m currently learning html,css,js,c#,c++,go,lua,php
