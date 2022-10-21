@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @volpijak12
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning html,css,js,c#,c++,go,lua,php
+- 👋 I’m volpi_jak, for friends volpi 
+- 👀 interested in tech 
+- 🌱 urrently learning html,css,js,c#,c++,go,lua,php
