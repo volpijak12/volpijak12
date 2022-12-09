@@ -1,3 +1,5 @@
 - 👋 I’m volpi_jak, for friends volpi 
-- 👀 interested in tech 
-- 🌱 currently learning html, css, js, c#, c++, go, lua, php, z++ and z-object
+- interested in computer science and technology 
+- currently learning  lua and z
+- i know html, css, js, php, c, c++, c# and ruby
+- Using PearOS https://archive.org/download/pearos (PearOS Monterey https://archive.org/download/pearos/pearOS_Monterey_64bit-12-beta.7z )
